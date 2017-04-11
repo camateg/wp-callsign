@@ -1,10 +1,15 @@
 <?php
 /*
-* Plugin Name: Callsign ShortCode
-* Description: Queries QRZ for Callsign Data.
-* Version: 0.1 
-* Author: Matthew Fleeger 
-* Author URI: https://kb3tix.net
+ Plugin Name: Callsign Shortcode
+ Description: Queries QRZ for Callsign Data.
+ Version: 20170411 
+ Author: Matthew Fleeger 
+ Author URI: https://kb3tix.net
+ Plugin URI: https://kb3tix-blog.herokuapp.com/wp-callsign/
+ License:     GPL2
+ License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain: wporg
+ Domain Path: /languages
 */
 
 function kb3tix_get_callsign($atts){
